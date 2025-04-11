@@ -61,7 +61,12 @@ main {
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
     background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.418);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 main h1 {
@@ -75,6 +80,12 @@ main h2 {
 
 main img {
     width: 100%;
+}
+
+main  img.pequena {
+    width: 50%;
+    display: block;
+    margin: auto;
 }
 
 footer {
