@@ -1,22 +1,28 @@
-# Olá, Mundo!👽
+# Olá, Mundo! 
+
+# 👽 Projetos de HTML5 e CSS3 do Curso em Vídeo
+
 ---
 
-* Este repositório contém os projetos e exercícios desenvolvidos durante o curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
+Este repositório contém os projetos e exercícios que desenvolvi durante o curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-## Conteúdo do Curso
+## Conteúdo
 
-O curso abrange os seguintes tópicos:
+Aqui você encontra a prática dos seguintes tópicos do curso:
 
-* **HTML5:**
-    * Estrutura básica de documentos HTML
-    * Tags e atributos HTML5
-    * Semântica HTML5
-    * Formulários e elementos de entrada
-    * Áudio e vídeo
-* **CSS3:**
-    * Seletores e propriedades CSS
-    * Modelo de caixa (box model)
-    * Layouts com Flexbox e Grid
-    * Transições e animações
-    * Estilização de formulários e tabelas
+* **HTML5:** Estrutura básica, tags, semântica, formulários, áudio e vídeo.
+* **CSS3:** Seletores, box model, layouts (Flexbox e Grid), transições, animações e estilização.
 
+## Projetos e Exercícios
+
+Os projetos e exercícios neste repositório ilustram os conceitos aprendidos em cada módulo do curso.
+
+## Status
+
+_Finalizei_ _o_ _módulo_ _2_ ✔️
+
+## Links
+
+* **Curso em Vídeo Canal no youtube:** [Link para o curso](https://youtu.be/vPNIAJ9B4hg?si=Dgr0GerBEhDZ80pb)
+
+Sinta-se à vontade para explorar o código!
