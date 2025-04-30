@@ -15,7 +15,10 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 
 ## 🚀 Status do Curso
 
+✅ Finalizei o **Módulo 1** 
+
 ✅ Finalizei o **Módulo 2**  
+
 🔄 Em andamento: **Módulo 3**
 
 ---
