@@ -68,7 +68,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
@@ -212,8 +212,29 @@ footer a:hover {
     color: var(--cor1);
 }
 
-@media screen and (max-width: 480px) {
+
+@media screen and (max-width: 445px) {
+
+    header {
+        padding-top: 15px;
+        min-height: 110px;
+    }
+    
+    header > h1 {
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+    
     header > p {
-        margin: auto;
+        font-size: 1.2em;
+        padding-right: 5px;
+        padding-left: 5px;
+        padding-bottom: 0.5px;
+    }
+
+    nav > a {
+        display: block;
+        padding: 5px;
     }
 }
+ 
