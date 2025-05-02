@@ -81,7 +81,6 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 | fundo005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo005) |
 | fundo006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo006) |
 | fundo007 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo007) |
-
 | **Desafio 012 - Cordel** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d012/) |
 ---
 
