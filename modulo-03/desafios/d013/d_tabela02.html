@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segunda tabela do desafio</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            width: 320px;
+            height: 200px;
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center; /* Alinhamento horizontal */
+            vertical-align: middle; /* Alinhamento vertical */
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha segunda tabela</h1>
+    <table>
+        <tr>
+            <td colspan="4">A</td>
+            <td rowspan="4">B</td>
+            
+        </tr>
+        <tr>
+            <td rowspan="4">C</td>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>H</td>
+            <td>I</td>
+        </tr>
+        <tr>
+            <td>J</td>
+            <td>K</td>
+            <td>L</td>
+        </tr>
+        <tr>
+            <td colspan="4">M</td>
+        </tr>
+        <tr>
+            <td colspan="5">N</td>
+        </tr>
+    </table>
+</body>
+</html>
