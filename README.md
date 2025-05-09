@@ -84,6 +84,7 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 | tabela001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela001) |
 | tabela002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela002) |
 | tabela003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela003) |
+| tabela004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela004) |
 | **Desafio 012 - Cordel** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d012/) |
 | **Desafio 013 - Mesclagens d_tabela01** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela01) |
 | **Desafio 013 - Mesclagens d_tabela02** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela02) |
