@@ -2,14 +2,40 @@
 
 ## 🌐 Projetos de HTML5 e CSS3 — Curso em Vídeo
 
-Este repositório contém os projetos e exercícios desenvolvidos durante o curso de **HTML5 e CSS3** do [Curso em Vídeo](https://youtu.be/vPNIAJ9B4hg?si=Dgr0GerBEhDZ80pb), ministrado pelo professor Gustavo Guanabara.
+Este repositório contém todos os exercícios, desafios e projetos desenvolvidos por mim durante o curso de **HTML5 e CSS3** oferecido gratuitamente pelo [Curso em Vídeo](https://www.youtube.com/CursoemVideo) e ministrado pelo professor Gustavo Guanabara.
+
+> 🎯 Meu objetivo com este repositório é praticar, acompanhar meu progresso e compartilhar os aprendizados de forma organizada.
 
 ---
 
-## 📚 Conteúdo Abordado
+## 🧠 Resumo dos Aprendizados
 
-- **HTML5:** Estrutura básica, tags, semântica, formulários, áudio e vídeo.
-- **CSS3:** Seletores, box model, Flexbox, Grid, transições, animações e estilizações diversas.
+Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abaixo estão os temas abordados até o momento:
+
+### 📄 HTML5
+
+| Tópico                | O que foi aprendido                                                                 |
+|------------------------|-------------------------------------------------------------------------------------|
+| Estrutura básica       | Uso das tags `<html>`, `<head>`, `<body>` e organização do conteúdo da página.     |
+| Títulos e parágrafos   | Hierarquia com `<h1>` até `<h6>`, e escrita com `<p>`.                             |
+| Imagens e mídias       | Inserção de imagens com `<img>`, áudios e vídeos com `<audio>` e `<video>`.       |
+| Emojis e símbolos      | Uso de códigos especiais (`&copy;`, `&reg;`, etc.) e emojis.                      |
+| Links e navegação      | Criação de links internos e externos com `<a>`.                                   |
+| Listas                 | Listas ordenadas `<ol>`, não ordenadas `<ul>` e listas de definição `<dl>`.       |
+| **Tabelas**            | Criação de tabelas com `<table>`, cabeçalho `<thead>`, corpo `<tbody>` e rodapé `<tfoot>`. Uso de `<tr>`, `<th>` e `<td>` para organizar os dados. |
+| Iframes                | Inserção de conteúdos externos (como vídeos do YouTube ou mapas do Google).       |
+| Formulários (inicial)  | Criação de formulários com `<form>`, campos com `<input>`, `<textarea>`, `<button>`. |
+
+### 🎨 CSS3
+
+| Tópico              | O que foi aprendido                                                              |
+|---------------------|----------------------------------------------------------------------------------|
+| Introdução ao CSS   | Aplicação de estilos via `style`, `<style>`, e arquivos `.css`.                 |
+| Seletores           | Seletores por tag, classe (`.classe`), id (`#id`) e agrupamentos.               |
+| Cores e fontes      | Definição de cores (`hex`, `rgb`, `nomes`) e estilização de textos e fontes.    |
+| Box Model           | Conceito de conteúdo, padding, borda e margem.                                  |
+| Layout e posicionamento | Uso de `display`, `position`, `float`, `clear`, alinhamento e centralização.  |
+| Responsividade      | Introdução ao uso de `media queries` para diferentes tamanhos de tela.          |
 
 ---
 
@@ -21,9 +47,7 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 
 🔄 Em andamento: **Módulo 3**
 
----
-
-## 🧪 Exercícios e Desafios
+## 📚 Exercícios por Módulo
 
 ### 📁 [Acesse todos os projetos aqui](https://lucasmb21.github.io/html-css-curso-em-video/)
 
@@ -88,17 +112,29 @@ Este repositório contém os projetos e exercícios desenvolvidos durante o curs
 | **Desafio 012 - Cordel** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d012/) |
 | **Desafio 013 - Mesclagens d_tabela01** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela01) |
 | **Desafio 013 - Mesclagens d_tabela02** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela02) |
----
-
-## 💬 Observações
-
-> Este repositório é atualizado conforme avanço no curso.  
-> Fique à vontade para navegar, estudar e sugerir melhorias!
 
 ---
 
+> ⚠️ Lista em atualização conforme avanço do curso.
+
+---
 ## 🔗 Links úteis
 
 - 🎓 [Canal Curso em Vídeo no YouTube](https://www.youtube.com/@CursoemVideo)
 - 🌍 [Página principal do repositório](https://lucasmb21.github.io/html-css-curso-em-video/)
 
+---
+
+## 🛠️ Pré-requisitos
+
+Para visualizar ou editar os projetos, é recomendado ter:
+
+- Um navegador moderno (Google Chrome, Mozilla Firefox, etc.)
+- Um editor de código (Visual Studio Code, Sublime Text, etc.)
+
+---
+
+## 📥 Clonando o Repositório
+
+```bash
+git clone https://github.com/LucasMB21/html-css-curso-em-video.git
