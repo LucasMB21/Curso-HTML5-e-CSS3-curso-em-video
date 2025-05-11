@@ -112,6 +112,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | **Desafio 012 - Cordel** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d012/) |
 | **Desafio 013 - Mesclagens d_tabela01** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela01) |
 | **Desafio 013 - Mesclagens d_tabela02** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela02) |
+| **Desafio 014 - Tabela média notas** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d014/t_desafio014) |
 
 ---
 
