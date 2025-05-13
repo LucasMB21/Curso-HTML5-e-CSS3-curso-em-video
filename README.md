@@ -45,7 +45,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ✅ Finalizei o **Módulo 2**  
 
-🔄 Em andamento: **Módulo 3**
+✅ Finalizei o **Módulo 3** 
 
 ## 📚 Exercícios por Módulo
 
@@ -109,6 +109,8 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | tabela002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela002) |
 | tabela003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela003) |
 | tabela004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela004) |
+| tabela005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela005) |
+| tabela006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex023/tabela006) |
 | **Desafio 012 - Cordel** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d012/) |
 | **Desafio 013 - Mesclagens d_tabela01** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela01) |
 | **Desafio 013 - Mesclagens d_tabela02** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela02) |
