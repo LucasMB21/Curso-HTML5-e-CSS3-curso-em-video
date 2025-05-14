@@ -47,6 +47,8 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ✅ Finalizei o **Módulo 3** 
 
+🔄 Em andamento: **Módulo 4**
+
 ## 📚 Exercícios por Módulo
 
 ### 📁 [Acesse todos os projetos aqui](https://lucasmb21.github.io/html-css-curso-em-video/)
@@ -96,8 +98,8 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ### 🔹 Módulo 3
 
-| Exercício | Link |
-|----------|------|
+| Exercício / Desafio | Link |
+|---------------------|------|
 | fundo001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo001) |
 | fundo002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo002) |
 | fundo003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/exercicios/ex022/fundo003) |
@@ -115,6 +117,14 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | **Desafio 013 - Mesclagens d_tabela01** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela01) |
 | **Desafio 013 - Mesclagens d_tabela02** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d013/d_tabela02) |
 | **Desafio 014 - Tabela média notas** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/d014/t_desafio014) |
+
+---
+
+### 🔹 Módulo 3
+
+| Exercício | Link |
+|----------|------|
+| iframe001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
 
 ---
 
