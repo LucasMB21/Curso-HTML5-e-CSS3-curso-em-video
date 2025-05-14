@@ -120,7 +120,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ---
 
-### 🔹 Módulo 3
+### 🔹 Módulo 4
 
 | Exercício | Link |
 |----------|------|
