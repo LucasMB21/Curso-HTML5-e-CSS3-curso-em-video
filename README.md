@@ -127,6 +127,8 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | iframe001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
 | iframe002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe002) |
 | iframe003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe003) |
+| iframe004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe004) |
+| iframe005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe005) |
 
 ---
 
