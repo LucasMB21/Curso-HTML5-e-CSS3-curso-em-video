@@ -122,14 +122,15 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ### 🔹 Módulo 4
 
-| Exercício | Link |
-|----------|------|
+| Exercício / Desafio | Link |
+|---------------------|------|
 | iframe001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
 | iframe002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe002) |
 | iframe003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe003) |
 | iframe004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe004) |
 | iframe005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe005) |
 | iframe006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe006) |
+| **Desafio 013 - pjt-redes-sociais** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-03/desafios/projeto-social/) |
 
 ---
 
